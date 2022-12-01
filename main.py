@@ -6,38 +6,6 @@ import json
 import os
 
 environnement = {
-    0 : "basebien",
-    1 : "basecompositionvaleurs",
-    2 : "basecontact",
-    3 : "basegeolocalisation",
-    4 : "baselot",
-    5 : "biens",
-    6 : "composition",
-    7 : "compositionvaleurs",
-    8 : "contactmoral",
-    9 : "contactsphysiques",
-    10 : "documents",
-    11 : "geolocalisation",
-    12 : "groupe",
-    13 : "lots",
-    14 : "mandat",
-    15 : "media",
-    16 : "mutation",
-    17 : "mutationcontacts",
-    18 : "notification",
-    19 : "objectifs",
-    20 : "prospect",
-    21 : "relationcontacts",
-    22 : "roles",
-    23 : "societe",
-    24 : "titrepropriete",
-    25 : "typebien",
-    26 : "typecomposition",
-    27 : "typeequipements",
-    28 : "typeequipementsvaleurs",
-    29 : "typelots",
-    30 : "typescontrat",
-    31 : "utilisateurs",
 }
 
 def main():

@@ -1,0 +1,4 @@
+*.json
+*.sql
+!script.sql
+*.zip
